@@ -1,3 +1,3 @@
 #KoKoa Clone 2020 update
 
-CSS got so much bettr!
+HTML & CSS are so much fun!
